@@ -1,0 +1,17 @@
+.inbox {
+    background-color: #1f1f24;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .issueList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .issueList li {
+    padding: 10px 0;
+    border-bottom: 1px solid #333;
+  }
+  
